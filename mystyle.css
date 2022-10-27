@@ -1,0 +1,79 @@
+body {
+	background-color: #d3ece8;
+	margin-left: 50px;
+	margin-right: 50px;
+ 	}
+p {
+	font-family: "Merriweather", Times, serif;
+	font-size: 20px;
+}
+
+h1 {
+	font-family: "Lucida Console", "Courier New", monospace;
+	font-size: 50px;
+	color: black;
+	text-align: center;
+	border-style: dotted;
+	border-color: #88afac;
+	border-width: 15px;
+
+}
+
+h2 {
+	font-family: "Lucida Console", "Courier New", monospace;
+	font-size:  33px;
+	color: black;
+}
+
+h3 {
+	font-family: "Lucida Console", "Courier New", monospace;
+	font-size: 30px;
+	color: black;
+}
+
+h4 {
+	font-family: "Lucida Console", "Courier New", monospace;
+	font-size: 25px;
+	color: black;
+
+}
+
+nav li {
+	font-family: "Merriweather", Times, serif;
+	font-size: 35px;
+	color: #88afac;
+	display: inline;
+	margin-right: 25px;
+	}
+
+nav {
+		text-align: center;
+		color: #88afac;
+		font-size: 35px;
+	}
+
+nav a:visited {
+	color: #88afac;
+	font-size: 35px;
+
+}
+
+nav a:link {
+	text-decoration:  none;
+	color: #88afac;
+	font-size: 35px;
+
+}
+
+a:hover {
+	font-weight: bold;
+}
+
+a:visited {
+	color: gray;
+}
+
+a {
+	color: black;
+	font-size: 20px;
+}
